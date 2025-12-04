@@ -13,6 +13,7 @@
 <div>
 
 > Olá meu nome é Leonardo Monaro Nascimento. Este diretório contém um projeto de um Machine Learning que aprendeu a identificar padrões para dizer se a posição da mão está mostrando uma pedra, um papel ou uma tesoura. Baseado nos padrões para jogar Pedra, Papel e Tesoura.
+> Além de um aplicativo feito utilizando streamlit, para classsificação de imagens. O conceito é fazer o upload da imagem e clicar em classificar para ativar o modelo e ele reconhecer o padrão da imagem.
 > Meu objetivo é futuramente seguir uma carreira na área de ciências de dados ou quaisquer áreas relacionadas.
 
 ## 💻 Pré-requisitos
