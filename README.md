@@ -10,6 +10,7 @@
 &nbsp;&nbsp;<img width=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />&nbsp;&nbsp;
 &nbsp;&nbsp;<img width=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />&nbsp;&nbsp;
 &nbsp;&nbsp;<img width=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />&nbsp;&nbsp;
+   <img width=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-plain-wordmark.svg" />
 <div>
 
 > Olá meu nome é Leonardo Monaro Nascimento. Este diretório contém um projeto de um Machine Learning que aprendeu a identificar padrões para dizer se a posição da mão está mostrando uma pedra, um papel ou uma tesoura. Baseado nos padrões para jogar Pedra, Papel e Tesoura.
